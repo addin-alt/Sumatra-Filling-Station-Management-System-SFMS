@@ -38,7 +38,7 @@
 | Meeting | Date | Milestone & Decisions | Status |
 | :---: | :---: | :--- | :---: |
 | **01** | **16 October 2026** | **Orientation & Scope Definition**<br>&bull; Received project orientation.<br>&bull; Tasked with formulating domain understanding and proposing candidate project titles. | ✅ Done |
-| **02** | **30 October 2026** | **Project Acceptance & Systems Analysis**<br>&bull; **Proposal Accepted**: Supervisor officially approved *"Sumatra Filling Station Management System SFMS"*.<br>&bull; **Action Items**: Assigned to finalize comprehensive Requirement Analysis and prepare system Use Case Diagrams. | In Progress |
+| **02** | **30 October 2026** | **Project Acceptance & Systems Analysis**<br>&bull; **Proposal Accepted**: Supervisor officially approved *"Sumatra Filling Station Management System SFMS"*.<br>&bull; **Action Items**: Assigned to finalize comprehensive Requirement Analysis and prepare system Use Case Diagrams. | ✅ Done  |
 
 
 ### 👤 Author & Maintainer
